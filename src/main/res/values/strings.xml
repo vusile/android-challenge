@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Activity Challenge</string>
+    <string name="button_about_alc">About ALC</string>
+    <string name="button_my_profile">My Profile</string>
+
+    //About ALC
+    <string name="url_about_alc">https://andela.com/alc/</string>
+    <string name="about_alc">About ALC</string>
+
+    //My Profile
+    <string name="my_profile">My Profile</string>
+    <string name="my_profile_name">Vusile Terence Silonda</string>
+    <string name="my_profile_track">Track: Android</string>
+    <string name="my_profile_country">Country: Tanzania</string>
+    <string name="my_profile_email">Email: admin@swahilimusicnotes.com</string>
+    <string name="my_profile_phone">Phone: +255657867793</string>
+    <string name="my_profile_slack_username">Slack Username: @vusile</string>
+</resources>
